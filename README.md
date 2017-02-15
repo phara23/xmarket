@@ -16,9 +16,9 @@ XMarket will aim to be a complete suite, allowing the seamless creation and depl
 
     * Geo sensitive
 
-⋅⋅*⋅⋅* Commission or spread based
-⋅⋅*⋅⋅* Accepted market order types 
-⋅⋅* Core Logic
+    * Commission or spread based
+    * Accepted market order types 
+  * Core Logic
 2. Distributed Network & Decentralization Preferences
 3. Consensus Protocol
 
