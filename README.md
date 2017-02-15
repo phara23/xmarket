@@ -12,9 +12,9 @@ XMarket will aim to be a complete suite, allowing the seamless creation and depl
 
   * Dynamic Preferences
 
-  *  * Centralized/Decentralized
+    * Centralized/Decentralized
 
-⋅⋅*⋅⋅* Geo sensitive
+    * Geo sensitive
 
 ⋅⋅*⋅⋅* Commission or spread based
 ⋅⋅*⋅⋅* Accepted market order types 
