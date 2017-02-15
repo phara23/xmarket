@@ -7,6 +7,7 @@ The role of market makers is a pivotal but often over looked one. Financial mark
 XMarket will aim to be a complete suite, allowing the seamless creation and deployment of customizeable, scaleable market making services. This suite will be a distributer peer to peer network that allows the creation of custom market making instances according to the creators specific needs. The p2p nodes in the network will be incentivized by a commission on the market making they facilitate. The suite will be comprised of the following individual parts:
 
 1. Pricing Engine
+
 ⋅⋅* Queing System
 
 ⋅⋅* Dynamic Preferences
