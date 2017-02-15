@@ -23,3 +23,9 @@ XMarket will aim to be a complete suite, allowing the seamless creation and depl
 3. Consensus Protocol
 
 #Baby Steps
+Obviously, a project like the one detailed is not built in a day. The following is our ToDo list to get started.
+1. Complete the map above
+2. Select what components of the price engine should be built in our first run through.
+3. Work out logic, math and flows for the chosed components of the price engine chosen in part 2.
+4. Build psuedocode to do the job detailed in part 4.
+5. Choose a language of implementation and build what we have designed.
