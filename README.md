@@ -8,11 +8,11 @@ XMarket will aim to be a complete suite, allowing the seamless creation and depl
 
 1. Pricing Engine
 
-⋅⋅* Queing System
+  * Queing System
 
-⋅⋅* Dynamic Preferences
+  * Dynamic Preferences
 
-⋅⋅*⋅⋅* Centralized/Decentralized
+  *  * Centralized/Decentralized
 
 ⋅⋅*⋅⋅* Geo sensitive
 
