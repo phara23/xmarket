@@ -8,9 +8,13 @@ XMarket will aim to be a complete suite, allowing the seamless creation and depl
 
 1. Pricing Engine
 ⋅⋅* Queing System
+
 ⋅⋅* Dynamic Preferences
+
 ⋅⋅*⋅⋅* Centralized/Decentralized
+
 ⋅⋅*⋅⋅* Geo sensitive
+
 ⋅⋅*⋅⋅* Commission or spread based
 ⋅⋅*⋅⋅* Accepted market order types 
 ⋅⋅* Core Logic
