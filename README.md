@@ -23,6 +23,7 @@ The suite will be comprised of the following individual parts show in the below 
   * Core Logic
 2. Distributed Network & Decentralization Preferences
 3. Consensus Protocol
+4. Marketplace 
 
 #Baby Steps
 Obviously, a project like the one detailed is not built in a day. The following is our ToDo list to get started.
@@ -36,4 +37,8 @@ Obviously, a project like the one detailed is not built in a day. The following 
 4. Build psuedocode to do the job detailed in part 3.
 
 5. Choose a language of implementation and build what we have designed.
+
+
+
+Market making can take place in several form. Firstly, a market maker could exist only to match buy and sell orders from market participants with each other. Doing this, the marker maker would assume no real risk while market making. 
 
