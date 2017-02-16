@@ -40,5 +40,9 @@ Obviously, a project like the one detailed is not built in a day. The following 
 
 
 
-Market making can take place in several form. Firstly, a market maker could exist only to match buy and sell orders from market participants with each other. Doing this, the marker maker would assume no real risk while market making. 
+Market making can take place in several form. Firstly, a market maker could exist only to match buy and sell orders from market participants with each other. Doing this, the marker maker would assume no real risk while market making. Market makers may also choose to have some of the given asset and cash on hand to buy and sell directly from market participants, allowing them to take on additional risk compared to the aforementioned stategy, but to earn more as market markers. 
+
+The spread would allow nodes in a distributed network to be rewarded for hosting and contributing to the network. In order to be secure this decentralized network would use similar cryptographic technologies to those used in Bitcoin, including but not limited to the concept of a blockchain. Having markets made over a decentralized network would have many advantages, including:
+
+1. Faster and more even execution times. 
 
