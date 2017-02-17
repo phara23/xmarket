@@ -16,9 +16,12 @@ The suite will be comprised of the following individual parts show in the below 
 
     * Centralized/Decentralized
 
-    * Geo sensitive
+    * Asset is geo sensitive or not
+    
+    * Assest is digital or physical
 
     * Commission or spread based
+    
     * Accepted market order types 
   * Core Logic
 2. Distributed Network & Decentralization Preferences
@@ -49,16 +52,5 @@ The spread would allow nodes in a distributed network to be rewarded for hosting
 
 
 
-
-###Important variant qualities of assets exchanged on market:
-
-geo sensitive or not
-
-physical or digital stocks vs books eg
-
-
-##Important variant qualities of the marketplace:
-
-commission or spread
 
 
