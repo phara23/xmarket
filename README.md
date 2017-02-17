@@ -13,16 +13,21 @@ The suite will be comprised of the following individual parts show in the below 
   * Queing System
 
   * Dynamic Preferences
-
-    * Centralized/Decentralized
-
-    * Asset is geo sensitive or not
     
-    * Assest is digital or physical
+    * Asset preferences
 
-    * Commission or spread based
+      * Asset is geo sensitive or not
     
-    * Accepted market order types 
+      * Assest is digital or physical
+     
+     * Market preferences
+
+       * Commission or spread based
+    
+       * Accepted market order types 
+       
+       * Centralized/Decentralized
+        
   * Core Logic
 2. Distributed Network & Decentralization Preferences
 3. Consensus Protocol
@@ -33,13 +38,16 @@ Obviously, a project like the one detailed is not built in a day. The following 
 
 1. Complete the map above
 
-2. Select what components of the price engine should be built first.
+2. Select what components of the price engine should be built first and what dynamic preferences to build into the first iteration. 
 
 3. Work out logic, math and flows for the components of the price engine chosen in part 2.
 
 4. Build psuedocode to do the job detailed in part 3.
 
 5. Choose a language of implementation and build what we have designed.
+
+Dynamic preferences for first iteration:
+
 
 
 
