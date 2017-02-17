@@ -50,14 +50,15 @@ The spread would allow nodes in a distributed network to be rewarded for hosting
 
 
 
-##Important qualities of assets exchanged on market:
+###Important variant qualities of assets exchanged on market:
 
 geo sensitive or not
 
 physical or digital stocks vs books eg
 
+
+##Important variant qualities of the marketplace:
+
 commission or spread
-
-
 
 
