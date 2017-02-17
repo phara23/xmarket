@@ -56,6 +56,8 @@ geo sensitive or not
 
 physical or digital stocks vs books eg
 
+commission or spread
+
 
 
 
