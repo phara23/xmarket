@@ -19,21 +19,20 @@ The suite will be comprised of the following individual parts show in the below 
       * Asset is geo sensitive or not
     
       * Assest is digital or physical
-     
-     * Market preferences
-
-       * Commission or spread based
-    
-       * Accepted market order types 
-       
-       * Centralized/Decentralized
-       
-       * Only match orders or take other side in orders. 
         
   * Core Logic
 2. Distributed Network & Decentralization Preferences
 3. Consensus Protocol
 4. Marketplace 
+  * Market preferences
+
+     * Commission or spread based
+    
+     * Accepted market order types 
+       
+     * Centralized/Decentralized
+       
+     * Only match orders or take other side in orders. 
 
 #Baby Steps
 Obviously, a project like the one detailed is not built in a day. The following is our ToDo list to get started.
