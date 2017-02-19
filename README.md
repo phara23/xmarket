@@ -1,4 +1,4 @@
-# xmarket
+# bitmarket
 An open source market making engine and network. 
 
 #The Vision
@@ -65,6 +65,14 @@ The spread would allow nodes in a distributed network to be rewarded for hosting
 
 1. Faster and more even execution times. 
 
+
+##Price Engine: 
+
+
+______________
+|Market      |
+|Participants|
+|____________|
 
 
 
