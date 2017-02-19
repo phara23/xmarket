@@ -78,6 +78,8 @@ ______________
 |____________|
 
 
+![My Diagram Image](images/relative/path/my-diagram-image.png)
+
 
 
 
