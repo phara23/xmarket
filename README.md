@@ -70,8 +70,11 @@ The spread would allow nodes in a distributed network to be rewarded for hosting
 
 
 ______________
+
 |Market      |
+
 |Participants|
+
 |____________|
 
 
