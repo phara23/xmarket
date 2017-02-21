@@ -79,16 +79,7 @@ The spread would allow nodes in a distributed network to be rewarded for hosting
 ##Price Engine: 
 
 
-______________
-
-|Market      |
-
-|Participants|
-
-|____________|
-
-
-![My Diagram Image](images/relative/path/my-diagram-image.png)
+![My Diagram Image](https://sketchboard.me/tAlNHtvDuhqm)
 
 
 
