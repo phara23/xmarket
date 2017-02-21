@@ -19,6 +19,16 @@ The suite will be comprised of the following individual parts show in the below 
       * Asset is geo sensitive or not
     
       * Assest is digital or physical
+      
+      * Asset type
+      
+        * Services
+        
+        * Financial assets
+        
+        * Retail goods
+        
+        * Unique goods, eg real estate
         
   * Core Logic
 2. Distributed Network & Decentralization Preferences
