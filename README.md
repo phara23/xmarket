@@ -78,6 +78,7 @@ The spread would allow nodes in a distributed network to be rewarded for hosting
 
 ##Price Engine: 
 https://sketchboard.me/tAlNHtvDuhqm
+
 http://imgur.com/a/KST66
 
 
