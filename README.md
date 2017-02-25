@@ -71,6 +71,8 @@ Dynamic preferences for first iteration:
 
 6. Not over a network.
 
+7. Only match orders with each other. 
+
 
 #Random musings to integrate into ReadMe
 Market making can take place in several form. Firstly, a market maker could exist only to match buy and sell orders from market participants with each other. Doing this, the marker maker would assume no real risk while market making. Market makers may also choose to have some of the given asset and cash on hand to buy and sell directly from market participants, allowing them to take on additional risk compared to the aforementioned stategy, but to earn more as market markers. 
